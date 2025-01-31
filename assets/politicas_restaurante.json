@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Coleccion_Restaurante": "FACTURACION ELECTRONICA",
+    "Parametro_Restaurante": "URL ACEPTA",
+    "Valor_Desarrollo": "http://192.168.0.27:5001/ca4xml"
+  },
+  {
+    "id": 2,
+    "Coleccion_Restaurante": "FACTURACION ELECTRONICA",
+    "Parametro_Restaurante": "URL INTERNO",
+    "Valor_Desarrollo": "HTTP://192.168.0.41:8071/FACTURACION"
+  },
+  {
+    "id": 3,
+    "Coleccion_Restaurante": "FACTURACION ELECTRONICA",
+    "Parametro_Restaurante": "CODIGO SII",
+    "Valor_Desarrollo": "87179134"
+  },
+  {
+    "id": 4,
+    "Coleccion_Restaurante": "SERVIDOR PARA URL DE IMPRESION",
+    "Parametro_Restaurante": "SERVIDOR",
+    "Valor_Desarrollo": "192.168.1.59:8081"
+  },
+  {
+    "id": 5,
+    "Coleccion_Restaurante": "CONFIGURACION MONITOR",
+    "Parametro_Restaurante": "URL MONITOR",
+    "Valor_Desarrollo": "http://20.1.233.103/api/status/queue"
+  }
+]

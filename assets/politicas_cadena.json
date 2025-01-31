@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "Coleccion_Cadena": "WS SERVIDOR",
+    "Parametro_Cadena": "MASTERDATA PRODUCCION",
+    "Valor_Desarrollo": "http://135.232.42.208:8080"
+  },
+  {
+    "id": 2,
+    "Coleccion_Cadena": "WS SERVIDOR",
+    "Parametro_Cadena": "SOA PRUEBAS",
+    "Valor_Desarrollo": "test"
+  },
+  {
+    "id": 3,
+    "Coleccion_Cadena": "WS SERVIDOR",
+    "Parametro_Cadena": "GERENTE PRODUCCION",
+    "Valor_Desarrollo": "https://sirqa.azurewebsites.net/"
+  },
+  {
+    "id": 4,
+    "Coleccion_Cadena": "WS SERVIDOR",
+    "Parametro_Cadena": "GERENTE PRODUCCION IP",
+    "Valor_Desarrollo": "https://sirqa.azurewebsites.net/"
+  },
+  {
+    "id": 5,
+    "Coleccion_Cadena": "WS SERVIDOR",
+    "Parametro_Cadena": "GERENTE PRUEBAS",
+    "Valor_Desarrollo": "test"
+  },
+  {
+    "id": 6,
+    "Coleccion_Cadena": "WS SERVIDOR",
+    "Parametro_Cadena": "SOA PRODUCCION",
+    "Valor_Desarrollo": "135.232.42.208:8080/chi/23/"
+  },
+  {
+    "id": 7,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "UBER - CREDENCIALES",
+    "Valor_Desarrollo": "{\"client_id\":\"o3GDH60xuT5IBitD_t6Xp2HtfFxXH8wv\",\"client_secret\":\"2SuXmVWZUp-5nVTnOwCeq3YcllNCpKbsUIbloudD\",\"grant_type\":\"client_credentials\",\"scope\":\"eats.deliveries\"}"
+  },
+  {
+    "id": 8,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "PEDIDOSYAV2 - PRUEBA",
+    "Valor_Desarrollo": "true"
+  },
+  {
+    "id": 9,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "BRINGG - OBTENER USER",
+    "Valor_Desarrollo": "https://admin-api.bringg.com/services/49193007/bca05231-e808-4fa0-93d0-5d181a7b1dc3/d1e9d22d-56d4-484d-9a91-f439e0c35d97/"
+  },
+  {
+    "id": 10,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "UBER - USUARIO",
+    "Valor_Desarrollo": "8bccd312-4830-4e44-8305-c0994fff32f4"
+  },
+  {
+    "id": 11,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "JUSTO - CREAR ORDEN",
+    "Valor_Desarrollo": "https://api.getjusto.com/api/dev/createDelivery"
+  },
+  {
+    "id": 12,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "JUSTO - TOKEN",
+    "Valor_Desarrollo": "Bearer 95nkXZuWzeHpE2mxCeqZyRa62RgcZwqcqms2TcApcZLMS6EXMkTpoewpQHfKWgzF"
+  },
+  {
+    "id": 13,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "BRINGG - CREAR ORDEN",
+    "Valor_Desarrollo": "https://admin-api.bringg.com/services/6f15901b/76fe1261-930a-4d46-8b4d-e06fbb9771c0/ee44e134-ddc9-4925-b693-932a44fce510/"
+  },
+  {
+    "id": 14,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "AGREGADOR - CONTROLADOR",
+    "Valor_Desarrollo": "http://4.152.10.93:8080/api/cambio_estados/ApiControllerIntegration"
+  },
+  {
+    "id": 15,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "BRINGG - CREAR USER",
+    "Valor_Desarrollo": "https://admin-api.bringg.com/services/c8a76f98/54f944de-5840-4b36-bdc1-498cc2904907/3e93dcdf-9999-4725-a75e-70f29e3467ad/"
+  },
+  {
+    "id": 16,
+    "Coleccion_Cadena": "CONFIGURACIÓN WEBSERVICES",
+    "Parametro_Cadena": "BRINGG - ACTUALIZAR ORDEN",
+    "Valor_Desarrollo": "https://admin-api.bringg.com/services/m4ldfk58/4f457b0f-87fe-4ec1-8634-8622db0b64cb/d205d909-d818-4ded-9eaf-8cdbd2a32d83/"
+  }
+]

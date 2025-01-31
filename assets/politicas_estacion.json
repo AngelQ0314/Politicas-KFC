@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "Estacion": "CAJA01",
+    "Coleccion_Estacion": "SERVICIO API IMPRESION",
+    "Parametro_Estacion": "URL_SERVICIO",
+    "Valor_Desarrollo": "http://192.168.1.1:5001"
+  },
+  {
+    "id": 2,
+    "Estacion": "CAJA02",
+    "Coleccion_Estacion": "SERVICIO API IMPRESION",
+    "Parametro_Estacion": "URL_SERVICIO",
+    "Valor_Desarrollo": "http://192.168.1.2:5001"
+  },
+  {
+    "id": 6,
+    "Estacion": "CAJA11",
+    "Coleccion_Estacion": "SERVICIO API IMPRESION",
+    "Parametro_Estacion": "URL_SERVICIO",
+    "Valor_Desarrollo": "http://192.168.1.11:5001"
+  },
+  {
+    "id": 7,
+    "Estacion": "CAJA10",
+    "Coleccion_Estacion": "SERVICIO API IMPRESION",
+    "Parametro_Estacion": "URL_SERVICIO",
+    "Valor_Desarrollo": "http://192.168.1.10:5001"
+  }
+]
